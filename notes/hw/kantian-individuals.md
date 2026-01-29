@@ -1,4 +1,4 @@
-# Assignment
+# Kantian Individuals: A Synthesis of Krakaeur, Kauffman, and Hoel
 
 > Are there systems for which the “whole is greater than the sum of its parts” or is this just a matter of perspective?
 
@@ -125,11 +125,6 @@ U: Unnecessary
 | Human + LLM pair | Individual |    # A collective!
 | AGI | Kantian Individual |   # A proposal
 
-
-### As for the assignment prompt:
-
-As far as colloquialisms go, "the whole is greater than the sum of the parts," is both more accurate and more useful than many others. More profound than most sayings, or so it would seem.
-
 ### Conclusion
 
 The concept of Kantian individuals appears to me to be useful in a variety of settings where collective behavior is under examination. There are many fields of study wrestling with the topics involved, and applying such a framework to the complexity practice of agent-based modeling could be a desirable improvement in conceptual clarity. 
@@ -137,6 +132,10 @@ The concept of Kantian individuals appears to me to be useful in a variety of se
 Undiscussed here: there are degrees of mathematical formalism and experimentation in each of the papers that would be interesting to attempt to reconcile.
 
 I hope to continue exploring the topic and would welcome feedback.
+
+## Response to prompt
+
+The prompt at the top of this work is a question posed by Professor Bryan Daniels, Arizona State University, 2026. In response: as far as colloquialisms go, "the whole is greater than the sum of the parts," is both more accurate and more useful than many others. More profound than most sayings, or so it would seem.
 
 ## Notes
 
