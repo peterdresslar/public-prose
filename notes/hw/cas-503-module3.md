@@ -70,22 +70,22 @@ Functional behavior exhibited includes a cooperative brood strategy leading to t
 
 ## Field Report and Collective Behavior Commentary
 
-#### Field Report
-The following observations derive from approximately 500 sessions of direct observation of a feral chicken colony in Ewa Beach, Hawaiʻi, over four years (2021-2025). The co-parenting collective described here was observed over eight weeks in early 2025.
+### Field Report
+The following observations derive from approximately 500 sessions of direct personal observation of a feral chicken colony in Ewa Beach, Hawaiʻi, over four years (2021-2025). The co-parenting collective described here was observed over eight weeks (2025).
 
 **Colony and environmental context:**
 Hawaiʻi presents unusual parameter conditions: 
 - food is abundant in the extreme (anthropogenic sources, insect pests); 
-- temperature is near-constant and low-stress (~70-90°F); 
-- water is generally human-provided; and predation is anomalously low (mongooses, feral cats, dogs — very few avian predators). 
+- temperature is near-constant (~70-90°F); 
+- water is generally human-provided; and predation is low
 
-Hawaiʻi is thus, in effect, a "paradise world" for for *Gallus gallus*. These conditions produce larger clutch sizes (15+ eggs), and high hatch success rates when compared to continental data (Carleial 2020, 12) Notably, the primary mortal threat to chicks is separation from the hen, rather than direct predation. Separation at young age (~ < 2 wks.), as observed in dozens of cases, is typically fatal within one overnight period. Population density frequently reaches local carrying capacity, at which point human intervention (removal, destruction) becomes the limiting factor.
+These conditions produce large clutch sizes (15+ eggs), and high hatch success rates compared to continental flocks (Carleial 2020, 12) Notably, the primary mortal threat to chicks is separation from the hen, rather than direct predation. Separation at young age (~ < 2 wks.), observed in dozens of cases, is typically fatal within one overnight period.
 
 **Observed collective behavior:**
 Two visually distinct, apparently unrelated hens were observed co-parenting a combined brood of approximately fifteen chicks:
 
-- Both hens food-called to all chicks; all chicks responded to either hen
-- No aggression between hens or toward "foreign" chicks
+- Both hens verbalized to chicks; all chicks responded to either hen
+- No aggression between hens or toward exogenous chicks
 - Chicks interacted as apparent siblings regardless of maternal origin
 - Hens displayed alternating head-up/head-down "vigilance" postures during foraging (see Kazara 2019)
 - Dual vigilance was seen to aid flock cohesion against perturbations on two occasions (perturbations: car, dog)
@@ -98,24 +98,19 @@ CAPTION: Figure 1. Emergent cooperative behaviors in a feral *Gallus gallus* dya
 
 *Note: For supplementary field data (photography) please see [this GitHub link](https://github.com/peterdresslar/gallus-gallus-mother-hen-dyad).*
 
-**Contrast with typical behavior:**
-Single-hen broods in the same colony display typical inter-brood aggression. Hens routinely eject or attack exogenous chicks---with the endogenous chicks sometimes contributing aggression---particularly during feeding. A common hazard routinely observed is that of a separated chick attempting to re-form with a different brood: this chick is almost always rejected, and sometimes harmed, by the exogenous hen. 
-
-The co-parenting dyad was thus extremely unusual within this behavioral context.
-
 #### Brief background
 
-The behavior of egg-laying, brooding, hatching, and then leading a tightly geospatially-associated flock of offspring characterizes Gallus gallus and several other domesticated bird species as "precocial" (Mench & Keeling 2001, 186) Vigilance behavior in chickens and other such precocial birds has been extensively studied, with hens exhibiting characteristic head-up scanning postures while foraging (Kazara 2019, 8). Inter-brood aggression is well-documented: hens routinely reject and attack exogenous chicks, particularly during feeding (Rush 1978, 12). While complex collective behaviors in bird flocks—including phase transitions representing abrupt qualitative shifts in group dynamics—have been described in complexity science literature (Romanczuk & Daniels 2023), similar direct analysis of precocial flocks appears far more limited.
+The behavior of egg-laying, brooding, hatching, and then leading a tightly geospatially-associated flock of offspring characterizes Gallus gallus and several other domesticated bird species as "precocial" (Mench & Keeling 2001, 186). Vigilance behavior in chickens and other such precocial birds has been extensively studied, with hens exhibiting characteristic head-up scanning postures while foraging (Kazara 2019, 8). Inter-brood aggression is well-documented: hens routinely reject and attack exogenous chicks, particularly during feeding (Rush 1978, 12). While complex collective behaviors in bird flocks—including phase transitions representing abrupt qualitative shifts in group dynamics—have been described in complexity science literature (Romanczuk & Daniels 2023, 1), similar direct analysis of precocial flocks appears far more limited.
 
 #### Analysis and Discussion
 
-It seems possible that we have observed a specific instance of a phase shift in flock leadership strategies, in which cooperation urges overwhelmed the natural competitive instincts of the two hens. Suspicion that a phase shift appears here is particularly heightened in the context of the strong environmental characteristics. With food and comfort generally maximized for the chickens, a strategy of mutual vigilance seems likely to overwhelm the resource concerns driving competition. 
+It seems possible that we have observed a specific instance of a phase shift in which cooperation overwhelmed the natural competitive instincts of the two hens. The strong environmental characteristics enhance this possibility. With food and comfort maximized for the chickens, a strategy of mutual vigilance seems reasonable. 
 
-Formal exploration and characterization of emergent collective phenomena in feral Gallus gallus of Hawaiʻi would require significant additional data. The specific geometry of two flock leaders successfully reshaping and reforming the flock seems like a testable system, and a collective individual simulation may prove elucidating.
+Formal exploration and characterization of emergent collective phenomena in feral Gallus gallus of Hawaiʻi would require additional data. A collective individual simulation based on the physical geometries may prove elucidating.
 
 ### Tests for Kantian individuality
 
-We might observe that a chicken collective of hen and brood is similar to an insect hive in some ways related specifically to individuality. Each member of the collective is unambiguously a Kantian whole, and yet the chicks are very reliant on the central figure of the collective---the hen---to survive. Their constraint closure is, in other words, poorly-maintained. While the hens of the dyad are unambiguously Kantian individuals, the chicks pose more ambiguity. Meanwhile, the flock itself is a clear collective individual with some (usually) mortal parts and very cohesive causal primacy. Perhaps not a Kantian individual, but worth consideration.
+We observe that a chicken collective of hen and brood is similar to an insect hive in some ways related specifically to individuality. Each member of the collective is unambiguously a Kantian whole, and yet the chicks are reliant on the central figure of the collective---the hen---to survive. Their constraint closure is poorly-maintained. While the hens of the dyad are unambiguously Kantian individuals, the chicks pose more ambiguity. Meanwhile, the flock itself is a clear collective individual with some mortal parts and very cohesive causal primacy. Perhaps not a Kantian individual, but worth consideration.
 
 ## References
 
