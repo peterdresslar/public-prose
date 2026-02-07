@@ -1,0 +1,7 @@
+## Continuous → decision
+
+*How might we best measure an individual's contribution to a collective decision?*
+
+One useful characteristic of collective intelligence (decision-making) is that seemingly continuous processes can be evaluated with graph-theoretic analysis, as though toggling between views. [@danielsQuantifyingCollectivity2016, p. 108-109; @barfussCollectiveCooperativeIntelligence2025, p. 5, 7] Many continuous processes from nature are more collective than is immediately apparent, lending more broad analytical power to this approach. [@cavagnaScalefreeCorrelationsStarling2010; @sugiyamaTrafficJamsBottlenecks2008; @berdahlEmergentSensingComplex2013; @romanczukPhaseTransitionsCriticality2023; @visscherGroupDecisionMaking2007] The ability to recast these systems as networks allows us to isolate the decision contributions of individuals by quantifying their network properties rather than by discriminating between their intrinsic natures. [@arehartLocatingDecisionMakingCircuits2018, p. 1-2; also e.g., @leeStatisticalMechanicsUS2015, p. 278-279][^1] More linked individuals (or, more broadly, elements)---as can be measured through eigenvector dominance---will contribute more to a collective decision. [e.g., @easleyNetworksCrowdsMarkets2010, p. 424-427]
+
+[^1]: [@couzinCollectiveMemorySpatial2002] seems to predict this perfectly, except it was published before the relevant network formalisms were available.
